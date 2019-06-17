@@ -1,0 +1,2 @@
+# stockmarketAI
+stockmarketAI based analysis
